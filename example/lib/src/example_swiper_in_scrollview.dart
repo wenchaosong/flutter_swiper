@@ -1,4 +1,4 @@
-import 'package:card_swiper/card_swiper.dart';
+import 'package:flutter_swiper_ms/flutter_swiper_ms.dart';
 import 'package:flutter/material.dart';
 
 class ExampleSwiperInScrollView extends StatefulWidget {

@@ -1,6 +1,6 @@
-name: flutter_swiper
+name: flutter_swiper_ms
 description: swiper/carousel for flutter, with multiple layouts, infinite loop. Compatible with Android & iOS.
-version: 1.0.0
+version: 0.0.1
 homepage: https://github.com/wenchaosong/flutter_swiper
 
 dependencies:
@@ -9,7 +9,6 @@ dependencies:
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=0.1.4"
 
 dev_dependencies:
   flutter_lints_plus: ^1.0.1

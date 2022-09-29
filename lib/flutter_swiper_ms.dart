@@ -1,4 +1,4 @@
-library card_swiper;
+library flutter_swiper_ms;
 
 export 'src/flutter_page_indicator/flutter_page_indicator.dart';
 export 'src/swiper.dart';

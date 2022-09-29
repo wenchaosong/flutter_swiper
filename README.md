@@ -3,5 +3,5 @@
 Add
 
 ```
-flutter_swiper : ^1.0.0
+flutter_swiper_ms : ^0.0.1
 ```

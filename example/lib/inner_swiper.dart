@@ -1,5 +1,5 @@
-import 'package:card_swiper/card_swiper.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_swiper_ms/flutter_swiper_ms.dart';
 
 void main() => runApp(const MyApp());
 
